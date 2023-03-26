@@ -1,0 +1,15 @@
+Country,Age,Salary,Purchased,OptOut
+France,44,72000,No,1
+Spain,27,48,Yes,2
+Germany,30,54000,No,3
+Spain,380,61000,No,4
+Germany,40,,Yes,5
+France,35,58000,Yes,6
+Spain,,52000,No,7
+France,48,79000,Yes,8
+Germany,50,83000,No
+France,37,67000,Yes,9
+Spain,38,61000,No,4
+Germany,40,,Yes,5
+France,35,58000,Yes,6
+Spain,,52000,No,7
