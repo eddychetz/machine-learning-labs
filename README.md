@@ -1,1 +1,1 @@
-# machine-learning-382
+# machine-learning-labs
